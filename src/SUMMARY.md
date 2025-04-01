@@ -2,14 +2,17 @@
 
 - [Meta](./meta.md)
 - [Haskell](./haskell.md)
-- [mdBook](./mdbook.md)
+- [PLT](./plt.md)
 - [Reading List](./reading_list.md)
+- [Rust](./rust.md)
 - [VIM Cheat Sheet](./vim_cheat_sheet.md)
 
 # Short Blog
 
-- [TIL](./sblog/til.md)
-    - [Deploy this mdbook using github action](./sblog/deploy_mdbook.md)
+- [TILs](./tils/tils.md)
+    - [Deploy this mdbook using github action](./tils/deploy_mdbook.md)
+- [Posts](./posts/posts.md)
+    - [mdBook](./posts/mdbook.md)
 
 # Links
 
