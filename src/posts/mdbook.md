@@ -19,9 +19,9 @@ compiler tutorial. It uses Rust. I already have Rust. I build mdBook. It succeed
 Now by just doing
 
 ```
-mdbook init my-first-book
-cd my-first-book
-mdbook serve --open
+$ mdbook init my-first-book
+$ cd my-first-book
+$ mdbook serve --open
 ```
 
 I have a page open in browser that automatically refresh with a nice default theme.
