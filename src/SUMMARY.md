@@ -10,8 +10,9 @@
 # Short Blog
 
 - [TILs](./tils/tils.md)
-    - [Deploy this mdbook using github action](./tils/deploy_mdbook.md)
+    - [Default browser](./tils/default_browser.md)
 - [Posts](./posts/posts.md)
+    - [Deploy this mdbook using github action](./posts/deploy_mdbook.md)
     - [mdBook](./posts/mdbook.md)
     - [Setup Dictionary in Linux](./posts/setup_dictionary_in_linux.md)
 
