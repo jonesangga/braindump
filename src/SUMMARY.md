@@ -13,6 +13,7 @@
     - [Deploy this mdbook using github action](./tils/deploy_mdbook.md)
 - [Posts](./posts/posts.md)
     - [mdBook](./posts/mdbook.md)
+    - [Setup Dictionary in Linux](./posts/setup_dictionary_in_linux.md)
 
 # Links
 

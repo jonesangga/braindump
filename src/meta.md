@@ -17,5 +17,6 @@ These will change as I write more and find suitable style for me:
 
 ## TODO
 
+- [ ] Move blog posts from jonesangga.codeberg.page to here.
 - [x] Add TIL page.
 - [ ] Add review pages for books (and maybe anime, manga, music).
