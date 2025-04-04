@@ -1,7 +1,10 @@
 # Summary
 
 - [Meta](./meta.md)
+- [Ada (game)](./ada.md)
+- [C](./c.md)
 - [Haskell](./haskell.md)
+- [J](./j.md)
 - [PLT](./plt.md)
 - [Reading List](./reading_list.md)
 - [Rust](./rust.md)
