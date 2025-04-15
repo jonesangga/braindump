@@ -21,6 +21,20 @@ Status is one of these:
     Impl    built a project from the book
 ```
 
+#### 05-04-25
+
+[Plan]  <br>
+_Creating the Bolt Compiler_. [11 parts tutorial](https://mukulrathi.com/create-your-own-programming-language/intro-to-compiler/)
+with OCaml and LLVM.
+
+#### 04-04-25
+
+[Start]  <br>
+_OCaml From the Very Beginning_. John Whitington.
+
+[Plan]  <br>
+_Mathematical Logic Through Python_. 2022. <https://www.logicthrupython.org/>
+
 #### 03-04-25
 
 [Start]  <br>
