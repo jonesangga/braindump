@@ -1,7 +1,28 @@
 # FunGeo
 
+#### 15-04-25
+
+- support d = C(q, P(150,150))
+- support making circle given center point and point at circle.
+- change function call to use (): R
+- support making rectangle from 2 Points.
+- when to reset this lastType? in the caller for expression().
+- global variable lastType for type checking in compiler
+- check type of argument of L, must be numbers.
+- don't support expression statement
+- overload L. Accept 2 points arguments.
+- change kind in LObj to use Kind enum
+- change function call to use (): P
+- change function call to use (): L
+- move cursor to the end when going through repl history (bug fix)
+- add Token Comma
+- make test.html
+- make fungeo-test.js
+
 #### 14-04-25
 
+- create closed shape object GeoShape
+- method S to make closed shape object
 - change length property to end in token because we always do
     slice(token.start, token.start + token.length);
 - add optional property error for token error
