@@ -1,5 +1,7 @@
 # Reading List
 
+[Holding a program in one's head](https://www.paulgraham.com/head.html)
+
 > "The reason to finish is to start something new."
 
 Here is the format

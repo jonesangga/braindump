@@ -1,0 +1,27 @@
+# Typescript
+
+[An introduction to type programming in TypeScript](https://www.zhenghao.io/posts/type-programming)
+
+[Proof that TypeScript's Type System is Turing Complete](https://gist.github.com/hediet/63f4844acf5ac330804801084f87a6d4)
+
+### Build Something
+
+[Fizz Buzz](https://gal.hagever.com/posts/typing-the-technical-interview-in-typescript)
+
+[Implementing Arithmetic Within TypeScript’s Type System](https://itnext.io/implementing-arithmetic-within-typescripts-type-system-a1ef140a6f6f)
+
+### To Read
+
+[TypeScript and Turing Completeness](https://itnext.io/typescript-and-turing-completeness-ba8ded8f3de3)
+Implementing Smallfuck interpreter.
+
+[Simulating a Tic Tac Toe game](https://blog.joshuakgoldberg.com/type-system-game-engines/)
+
+## Misc
+
+- `any` vs `unknown`: where we are allowed to do everything with `any`, we aren’t allowed to do any thing with `unknown`.
+
+- Passing an object with too many properties directly to a function will
+trigger excess property checks
+
+- Use `tsc --noEmit --watch`.

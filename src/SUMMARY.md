@@ -1,13 +1,15 @@
 # Summary
 
 - [Meta](./meta.md)
-- [Ada (game)](./ada.md)
 - [C](./c.md)
 - [Haskell](./haskell.md)
 - [J](./j.md)
+- [JS](./js.md)
 - [PLT](./plt.md)
 - [Reading List](./reading_list.md)
 - [Rust](./rust.md)
+- [TS](./ts.md)
+- [VIM](./vim.md)
 - [VIM Cheat Sheet](./vim_cheat_sheet.md)
 
 # Short Blog

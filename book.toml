@@ -1,9 +1,21 @@
 [book]
+title = "jonesangga's braindump"
 authors = ["jonesangga"]
 language = "en"
 multilingual = false
 src = "src"
-title = "jonesangga's braindump"
+
+[build]
+create-missing = false
 
 [output.html]
 git-repository-url = "https://github.com/jonesangga/braindump"
+
+# Enable only in prod.
+[output.html.search]
+enable = true
+
+# Enable only in prod.
+[output.html.print]
+enable = true           # include support for printable output
+page-break = true       # insert page-break after each chapter
