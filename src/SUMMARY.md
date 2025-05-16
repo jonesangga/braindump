@@ -8,6 +8,7 @@
 - [PLT](./plt.md)
 - [Reading List](./reading_list.md)
 - [Rust](./rust.md)
+- [Testing](./testing.md)
 - [TS](./ts.md)
 - [VIM](./vim.md)
 - [VIM Cheat Sheet](./vim_cheat_sheet.md)
@@ -24,3 +25,4 @@
 # Links
 
 - [Other's Braindump](./others_braindump.md)
+- [Uncategorized](./uncategorized.md)
