@@ -1,5 +1,11 @@
 # Typescript
 
+[Implementing the Rust Result type in TypeScript](https://medium.com/@cole.carley/implementing-the-rust-result-type-in-typescript-2c2a93c0c165)
+
+[Creating a Result Type in TypeScript](https://www.dennisokeeffe.com/blog/2024-07-14-creating-a-result-type-in-typescript)
+
+[Using Results in TypeScript](https://imhoff.blog/posts/using-results-in-typescript)
+
 [An introduction to type programming in TypeScript](https://www.zhenghao.io/posts/type-programming)
 
 [Proof that TypeScript's Type System is Turing Complete](https://gist.github.com/hediet/63f4844acf5ac330804801084f87a6d4)
