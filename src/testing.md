@@ -3,9 +3,9 @@
 From The Art of Unit Testing book.
 
 Criteria of good test:
-- Readable
-- Maintainable
-- Trustworthy
+1. Readable
+1. Maintainable
+1. Trustworthy
 
 > Technically, one the biggest benefits of TDD is that by seeing a test fail, and then seeing it pass without
 > changing the test, you are basically testing the test itself.
@@ -71,18 +71,14 @@ they are not multiple concerns.
 
 ### Book
 
-The Art of Unit Testing. Third Edition. Roy Osherove.
+1. The Art of Unit Testing. Third Edition. Roy Osherove.
+1. Build Your Own Test Framework. Daniel Irvine.
 
 ### Link
 
-[Node test runner doc](https://nodejs.org/api/test.html)
-
-[Node assert doc](https://nodejs.org/api/assert.html)
-
-[Node.js native test runner is great](https://pawelgrzybek.com/you-might-not-need-jest-the-node-js-native-test-runner-is-great/)
-
-[Migrating 500+ tests from Mocha to Node.js](https://astro.build/blog/node-test-migration/)
-
-[Complete Guide to the Node.js Test Runner](https://bhdouglass.com/blog/nodejs-test-runner/)
-
-[Unit testing best practices for .NET](https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-best-practices)
+1. [Node test runner doc](https://nodejs.org/api/test.html)
+1. [Node assert doc](https://nodejs.org/api/assert.html)
+1. [Node.js native test runner is great](https://pawelgrzybek.com/you-might-not-need-jest-the-node-js-native-test-runner-is-great/)
+1. [Migrating 500+ tests from Mocha to Node.js](https://astro.build/blog/node-test-migration/)
+1. [Complete Guide to the Node.js Test Runner](https://bhdouglass.com/blog/nodejs-test-runner/)
+1. [Unit testing best practices for .NET](https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-best-practices)
