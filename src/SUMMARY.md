@@ -6,6 +6,7 @@
 - [J](./j.md)
 - [JS](./js.md)
 - [PLT](./plt.md)
+- [Prolog](./prolog.md)
 - [Reading List](./reading_list.md)
 - [Rust](./rust.md)
 - [Testing](./testing.md)
