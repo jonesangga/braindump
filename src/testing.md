@@ -1,5 +1,10 @@
 # Testing
 
+The general guideline for integration testing is to cover the longest happy path
+and any edge cases that can't be exercised by unit tests.
+
+---
+
 From The Art of Unit Testing book.
 
 Criteria of good test:
@@ -72,6 +77,7 @@ they are not multiple concerns.
 ### Book
 
 1. The Art of Unit Testing. Third Edition. Roy Osherove.
+1. Unit Testing Principles, Practices, and Patterns. Vladimir Khorikov.
 1. Build Your Own Test Framework. Daniel Irvine.
 
 ### Link
