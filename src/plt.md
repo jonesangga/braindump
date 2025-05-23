@@ -1,8 +1,8 @@
 # Programming Language Theory
 
-I should really cautious about the following. Don't just learn for the sake of learning.
-Selective with your reading, because a "wrong" book will make you hate the field.
-
+- [Moving Beyond Type Systems](https://vhyrro.github.io/posts/effect-systems/)
+- [Algebraic Effects for the Rest of Us](https://overreacted.io/algebraic-effects-for-the-rest-of-us/)
+- [Why Pipelines are Useful](https://arothuis.nl/posts/why-pipelines-are-useful/)
 - [Big Resources](https://steshaw.org/plt/)
 
 ## Lua

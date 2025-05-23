@@ -7,3 +7,4 @@
 - [storytotell.org](https://storytotell.org/)
 - [hyperpolyglot.org](https://hyperpolyglot.org/)
 - [The Quine Page](https://www.nyx.net/~gthompso/quine.htm)
+- [I finally understand Declarative Programming](https://medium.com/@saihemanth9019/i-finally-understand-declarative-programming-296d52b46751)

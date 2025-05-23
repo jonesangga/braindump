@@ -25,5 +25,6 @@
 
 # Links
 
+- [Old Internet](./old-internet.md)
 - [Other's Braindump](./others_braindump.md)
 - [Uncategorized](./uncategorized.md)
