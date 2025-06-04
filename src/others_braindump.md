@@ -7,3 +7,4 @@
 - [Things and Stuff Wiki](https://wiki.thingsandstuff.org/Main_Page)
 - [Simon Willison's TILs](https://til.simonwillison.net/)
 - [Purarue](https://purarue.xyz/x/notes/)
+- [mesyeti](https://wiki.mesyeti.uk/)

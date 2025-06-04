@@ -14,6 +14,10 @@
 - [VIM](./vim.md)
 - [VIM Cheat Sheet](./vim_cheat_sheet.md)
 
+# Math
+
+- [Geometry](./math/geometry.md)
+
 # Short Blog
 
 - [TILs](./tils/tils.md)
