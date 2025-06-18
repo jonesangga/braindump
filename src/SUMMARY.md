@@ -18,6 +18,10 @@
 
 - [Geometry](./math/geometry.md)
 
+# Project
+
+- [Fungeo](./project/fungeo.md)
+
 # Short Blog
 
 - [TILs](./tils/tils.md)
