@@ -1,5 +1,7 @@
 # J
 
+- [Ode to J](https://zserge.com/posts/j/)
+
 #### 03-04-25
 
 Trying J again. Reading book _J for C Programmers_ by Henry Rich, 2007.

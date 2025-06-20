@@ -3,6 +3,8 @@
 Below are short and trivial things that I just learned. For a slighly longer
 see sub chapters.
 
+- There are `CSSStyleSheet()`, `replaceSync()`, `document.adoptedStyleSheets`.
+
 - `Ctrl-y` to select first option of vim completion.
 
 - Skipping test with `describe.skip()` and `it.skip()` in node test.
