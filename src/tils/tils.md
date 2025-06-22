@@ -3,6 +3,13 @@
 Below are short and trivial things that I just learned. For a slighly longer
 see sub chapters.
 
+- Using tagged template literal to un-indent multiline string
+  [https://adamcoster.com/blog/prettify-your-javascript-strings](https://adamcoster.com/blog/prettify-your-javascript-strings).
+
+- `du -shc .` to see disc space.
+
+- See list of projects I watch in `github.com/watching`.
+
 - There are `CSSStyleSheet()`, `replaceSync()`, `document.adoptedStyleSheets`.
 
 - `Ctrl-y` to select first option of vim completion.

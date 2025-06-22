@@ -14,3 +14,8 @@
 - [I finally understand Declarative Programming](https://medium.com/@saihemanth9019/i-finally-understand-declarative-programming-296d52b46751)
 - [Writing Toy Software Is A Joy](https://www.jsbarretto.com/blog/software-is-joy/)
 - [Afraid to be Seen Learning](https://prickly.oxhe.art/embarrassment/)
+- [We don't talk about semicolon](https://www.werkema.com/2022/02/10/we-dont-talk-about-semicolons/)
+
+---
+
+- [Freedium - breaking Medium paywall](https://freedium.cfd/)
